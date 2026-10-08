@@ -1,0 +1,80 @@
+{
+  "accuracy": 0.703413009870377,
+  "macro_f1": 0.35763326658323485,
+  "per_class": {
+    "Minor injury": {
+      "precision": 0.7287380421963046,
+      "recall": 0.9376159163716068,
+      "f1-score": 0.8200855331072113,
+      "support": 5931.0
+    },
+    "Serious injury": {
+      "precision": 0.46684350132625996,
+      "recall": 0.1622119815668203,
+      "f1-score": 0.24076607387140903,
+      "support": 2170.0
+    },
+    "Fatal": {
+      "precision": 0.08333333333333333,
+      "recall": 0.006493506493506494,
+      "f1-score": 0.012048192771084338,
+      "support": 308.0
+    }
+  },
+  "pr_auc_per_class": {
+    "Minor injury": 0.7664816642881802,
+    "Serious injury": 0.3605148415374342,
+    "Fatal": 0.04905431121287763
+  },
+  "brier_multiclass": 0.43040850853793144,
+  "brier_fatal": 0.037504138045405734,
+  "roc_auc_ovr_macro": 0.5863686917370999,
+  "severe_recall_at_0p5": 0.21832122679580307,
+  "severe_pr_auc": 0.41949272564534534,
+  "severe_base_rate": 0.294684266856939,
+  "confusion_matrix": {
+    "labels": [
+      "Minor injury",
+      "Serious injury",
+      "Fatal"
+    ],
+    "matrix": [
+      [
+        5561,
+        1810,
+        260
+      ],
+      [
+        356,
+        352,
+        46
+      ],
+      [
+        14,
+        8,
+        2
+      ]
+    ]
+  },
+  "n_train": 10351,
+  "n_calibration": 7700,
+  "n_test": 8409,
+  "class_share_train": {
+    "Minor injury": 0.7001,
+    "Serious injury": 0.2618,
+    "Fatal": 0.0381
+  },
+  "split": {
+    "fit_years": [
+      2020,
+      2022
+    ],
+    "calibration_years": [
+      2023,
+      2024
+    ],
+    "test_years": "2025+"
+  },
+  "baseline_majority_macro_f1": 0.27573221757322175,
+  "baseline_logreg_macro_f1": 0.3541672045313125
+}

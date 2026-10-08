@@ -1,0 +1,16 @@
+{
+  "socials": [
+    { "name": "GitHub",   "icon": "github",   "url": "https://github.com/Hamad-Ansari" },
+    { "name": "LinkedIn", "icon": "linkedin", "url": "https://www.linkedin.com/in/hammad-zahid-xyz" },
+    { "name": "Kaggle",   "icon": "kaggle",   "url": "https://www.kaggle.com/hammad7" },
+    { "name": "Email",    "icon": "mail",     "url": "mailto:mrhammadzahid24@gmail.com" },
+    { "name": "X",        "icon": "twitter",  "url": "https://x.com/zahid_hamm57652" },
+    { "name": "Portfolio","icon": "globe",    "url": "https://hammadzahidpotfolio.netlify.app" },
+    { "name": "WhatsApp", "icon": "whatsapp", "url": "https://wa.me/HammadAnsari08" },
+    { "name": "Instagram", "icon": "instagram", "url": "https://www.instagram.com/h_a_m_m_a_d_ansari" },
+    { "name": "Facebook", "icon": "facebook", "url": "https://www.facebook.com/hammad.zahid.9484" },
+    { "name": "YouTube", "icon": "youtube", "url": "https://www.youtube.com/@HammadZahid-ge7pn" },
+    { "name": "Medium", "icon": "medium", "url": "https://medium.com/@Hammadansari" },
+    { "name": "Hugging Face", "icon": "huggingface", "url": "https://huggingface.co/mrhammad12" }
+  ]
+}
