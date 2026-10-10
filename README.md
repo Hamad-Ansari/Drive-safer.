@@ -7,7 +7,7 @@ citation-enforced law assistant, and an accessible signal academy.
 > **Honesty first.** All accident figures are **synthetic demo data** calibrated to published
 > road-safety *patterns* — not real statistics. Law content is a clearly-flagged paraphrase with
 > demo section IDs. The assistant refuses rather than invents. Educational use only — not legal advice.
-
+linke: https://drive-safer-fb8xkhk6suq9y6xwhj9bie.streamlit.app/
 ## Features (requirement IDs from docs/PRD.md)
 
 | ID | Feature | Where |
